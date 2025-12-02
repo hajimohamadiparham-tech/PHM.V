@@ -1,0 +1,48 @@
+{
+  "PHM.V": {
+    "password": "PHM",
+    "role": "admin"
+  },
+  "RAHELE": {
+    "password": "RAHELE"
+  },
+  "HAMID": {
+    "password": "HAMID"
+  },
+  "NAZANIN": {
+    "password": "NAZI"
+  },
+  "MAJID": {
+    "password": "MAJID"
+  },
+  "FATIMA": {
+    "password": "FATIMA"
+  },
+  "REZA": {
+    "password": "REZA"
+  },
+  "BAHAR": {
+    "password": "BAHAR"
+  },
+  "HEDIYE": {
+    "password": "GIFTY"
+  },
+  "SAMAN": {
+    "password": "PERSPOLISE"
+  },
+  "ATIYE": {
+    "password": "ATIYE"
+  },
+  "MAHSA": {
+    "password": "MAHI"
+  },
+  "MOHAMAD REZA": {
+    "password": "M.R.IT"
+  },
+  "IRAN": {
+    "password": "ایران"
+  },
+  "RASOOL": {
+    "password": "رسول"
+  }
+}
