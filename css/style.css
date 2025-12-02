@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url("../data/image (4).jpg") no-repeat center center fixed;
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+.login-box {
+    width: 300px;
+    padding: 20px;
+    background: rgba(0,0,0,0.6);
+    backdrop-filter: blur(5px);
+    border-radius: 12px;
+    text-align: center;
+    margin: 120px auto;
+    color: #fff;
+}
+
+.logo {
+    width: 120px;
+    margin-bottom: 10px;
+}
