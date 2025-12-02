@@ -1,12 +1,12 @@
 
 function login() {
-    let user = document.getElementById("user").value;
     let pass = document.getElementById("pass").value;
 
-    // یوزر و پسوردی که می‌خوای
-    if (user === "admin" && pass === "1234") {
+    const correctPass = "1234"; // اینجا رمز دلخواهت
+
+    if (pass === correctPass) {
         window.location.href = "pages/panel.html";
     } else {
-        alert("نام کاربری یا رمز اشتباه است");
+        alert("رمز اشتباه است!");
     }
 }
